@@ -12,5 +12,6 @@ Hardware
 Picture
 <img src="IMG_2765.jpg">
 <img src="IMG_2766.jpg">
+<img src="IMG_2767.jpg">
 <img src="IMG_2780.jpg">
 
