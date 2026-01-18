@@ -9,3 +9,8 @@ Hardware
 - 470 resistor 5x
 - 10k resistor 5x
 
+Picture
+<img src="IMG_2765.jpg">
+<img src="IMG_2766.jpg">
+<img src="IMG_2780.jpg">
+
